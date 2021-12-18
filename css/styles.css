@@ -97,6 +97,7 @@ h1 {
   letter-spacing: 0.03em;
   color: #212121;
   background-color: #f5f4fa;
+  cursor: pointer;
 }
 .button-portfolio:hover,
 .button-portfolio:focus {
