@@ -104,6 +104,7 @@ h1 {
 .button-portfolio:hover,
 .button-portfolio:focus {
   background-color: #2196f3;
+  color: #ffffff;
 }
 .button-portfolio-all {
   font-family: inherit;
